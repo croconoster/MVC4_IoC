@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="MS.NET" PreferredExecutionTarget="ChromeHTML" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApplication\Controllers\HomeController.cs">
+    <Files>
+      <File FileName="SampleApplication\Controllers\HomeController.cs" Line="1" Column="1" />
+      <File FileName="SampleApplication\Models\Message.cs" Line="1" Column="1" />
+      <File FileName="SampleApplication\Interfaces\IMessageService.cs" Line="1" Column="1" />
+      <File FileName="SampleApplication\Services\MessageService.cs" Line="1" Column="1" />
+      <File FileName="SampleApplication\App_Start\NinjectWebCommon.cs" Line="1" Column="1" />
+      <File FileName="SampleApplication\Views\Home\Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
